@@ -34,6 +34,10 @@ Zákon vynechává některá čísla paragrafů (zrušená ustanovení) a obsahu
 
 Materiál slouží odbornému a vzdělávacímu účelu. Vychází z konsolidovaného znění k 31. 3. 2026; pozdější změny nemusí být zohledněny. Nejde o právní službu ani závazné právní stanovisko.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
